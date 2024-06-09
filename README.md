@@ -5,3 +5,7 @@ correlation. The repository contains the notebook coded in Python, 3 databases (
 and this Readme file.
 
 ![image](https://github.com/avidar500/LakeKineret/assets/62989635/5beccdbd-e6da-4ea8-80ef-faae1f8fa28c)
+
+
+Studying with DataCamp online courses enabled me to execute this project in Python. The knowledge I acquired from these courses is invaluable
+and opened me a window to the world of data science. I highly recommend these courses to anyone interested in this field.
