@@ -12,8 +12,11 @@ A screenshot from the project:
 This project and the datasets can be found on kaggle:
 
 https://www.kaggle.com/code/avidar/lakekineretlevel-eda
+
 /kaggle/input/daily-rain-isr/new_isr_rain_daily_web.csv
+
 /kaggle/input/miflas-kinneret/Miflas-2024-04-30.csv
+
 /kaggle/input/mts-stations-names/new_stn_table_web.csv
 
 Studying with DataCamp online courses enabled me to execute this project in Python. The knowledge I acquired from these courses is invaluable
